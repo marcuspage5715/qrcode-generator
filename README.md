@@ -1,2 +1,2 @@
 # qrcode-generator
-generates scanable QR codes
+generates a QR code and saves it to a specified file
